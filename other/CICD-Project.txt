@@ -1,10 +1,10 @@
 Problem Statement
 
-MongoBite Co. is using Cloud for one of their products. The project uses modular components, multiple frameworks and want the components to be developed by different teams or by 3rd-party vendors.
+MongoBite Co. is using Cloud for one of its products. The project uses multiple modular components and frameworks and wants the components to be developed by different teams or 3rd-party vendors.
 
-The company’s goal is to deliver the product updates frequently to production with High quality & Reliability. They also want to accelerate software delivery speed, quality and reduce feedback timebetween developers, testers & ops teams.
+The company’s goal is to deliver product updates frequently to production with High quality & Reliability. They also want to accelerate software delivery speed, and quality and reduce feedback time between developers, testers & ops teams.
 
-they need to implement Continuous Integration & Continuous Deployment with DevOps using following tools:
+they need to implement Continuous Integration & Continuous Deployment with DevOps using the following tools:
 
 	Git – For version control for tracking changes in the code files
 	Jenkins – For continuous integration and continuous deployment
@@ -13,7 +13,7 @@ they need to implement Continuous Integration & Continuous Deployment with DevOp
 	Docker Swarm / Kubernetes -- For hosting containerized applications ( for running containers )
 	
 	
-This project will be about how to do deploy code to dev/stage/prod etc, just on a click of button.
+This project will be about how to deploy code to dev/stage/prod etc, just with a click of a button.
 
 
 ============================================================================
