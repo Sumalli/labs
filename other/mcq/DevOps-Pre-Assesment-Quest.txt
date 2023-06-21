@@ -98,28 +98,28 @@
 	c) ls -a  (ans)
 	d) ls -i  
 	
-16) Which of the following command is used to count number of lines in a file?
+16) Which of the following command is used to count the number of lines in a file?
 
 	a) wc -l  (ans)
 	b) wc -c
 	c) wc -w
 	d) None of these
 
-17) Suppose I am in /etc directory and I want to go to my home directory which command should I use?
+17) Suppose I am in the/etc directory and I want to go to my home directory which command should I use?
 
 	a) cd
 	b) cd ~
 	c) Both A and B (ans)
 	d) none of these
 	
-18) which of the below protocol is used to connect to remote windows machine ?
+18) which of the below protocol is used to connect to a remote Windows machine?
 
 	a) UDP 
 	b) RDP (ans)
 	c) TCP
 	d) ssh 
 
-19) what is cloud computing ?
+19) what is cloud computing?
 
 	a) on-demand delivery of IT resources
 	b) pay-as-you-go model of IT resources 
